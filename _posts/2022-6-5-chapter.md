@@ -3,7 +3,7 @@ title:  "断章"
 subtitle: " "
 author: "卞之琳"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/ice.jpg"
+image: "assets/images/ice.jepg"
 ---
 
 # 断章     
